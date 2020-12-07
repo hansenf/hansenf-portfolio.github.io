@@ -1,2 +1,2 @@
 # hansenf-portfolio.github.io
-This page purpose for personal portfolio
+This web page for my portfolio
